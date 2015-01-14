@@ -23,7 +23,7 @@ sudo pip install -r requirements.txt
 Seriously. I'm a lazy programmer, so it's all up to you.
 
 Download the lecture podcasts from the UCSD ACMS podcast site, and place them in the appropriate folder. 
-I'm not telling you which that is. It's up to you to figure it out.
+One guess as to which one it is.
 
 I also suggest you rename them appropriately, such as "lect-1.mp4", "lect-2.mp4", and so on. The file names
 determine the subdirectories in the slides folder later on.
